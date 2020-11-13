@@ -11,7 +11,7 @@ setup(
     long_description=readme(),
     long_description_content_type="text/markdown",
     url="https://github.com/Vipul767/TOPSIS_Vipul_1018013491",
-    download_url = https://github.com/Vipul767/TOPSIS_Vipul_1018013491/archive/v_07.tar.gz,  
+    download_url = "https://github.com/Vipul767/TOPSIS_Vipul_1018013491/archive/v_07.tar.gz",  
     keywords=['TOSPSIS','Normalised_Matrix','Performance_score','Rank','Weighted_Normalised_matrix']
     classifiers=[
 	'Development Status :: 3 - Alpha',     
